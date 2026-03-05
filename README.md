@@ -40,5 +40,7 @@
             <li>HTML</li>
             <li>JAVA</li>
             <li>C++</li>
+            <img ![1000004758 1](https://github.com/user-attachments/assets/41b1ce19-ebc4-49e0-a09f-f3a017ff9dbc)
+
         </ol>
     </table>
