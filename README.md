@@ -1,4 +1,4 @@
-<html>
+s<html>
     <title>Practical no: 5</title>
     <h1>Maithali.S.Yadv</h1>
     <h2>USN : CS25153</h2>
@@ -13,7 +13,7 @@
             <th>Year of passing</th>
             <th>collega Name</th>
             <th>Branch</th>
-        </tr>
+        </tr>S
         <tr cellspacing="4px">
             <td>1</td>
             <td cellpadding="4px">10th</td>
