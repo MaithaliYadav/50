@@ -12,7 +12,7 @@
             <th>class</th>
             <th>Year of passing</th>
             <th>collega Name</th>
-            <th>Breench</th>
+            <th>Branch</th>
         </tr>
         <tr cellspacing="4px">
             <td>1</td>
@@ -31,7 +31,7 @@
         <tr cellspacing="4px">
             <td>3</td>
             <td cellpadding="4px">B.Tech</td>
-            <td>2029</td>
+            <th>2029</th>
             <td>S.B.Jain Institute of Technology</td>
             <td>CSE</td>
             </tr>
